@@ -33,7 +33,7 @@ main{box-shadow: 0 0 1.675rem #6d37c324;}
 main .container{
     width: 430px;   margin: 0 auto;
     display: flex;      flex-direction: column;     text-align: center;
-    background-color: var(--c3-color);    border-radius: 22px; 
+    background-color: #FFFFFF;    border-radius: 22px; 
 }
 @media screen and (max-width: 375px) {
     main .container{
